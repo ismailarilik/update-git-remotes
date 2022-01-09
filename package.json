@@ -1,0 +1,21 @@
+{
+  "name": "update-git-remotes",
+  "version": "1.0.0",
+  "description": "Update git remote URLs of all projects by the given mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.piworks.net:ismailarilik/update-git-remotes.git"
+  },
+  "keywords": [
+    "git",
+    "remote",
+    "set-url",
+    "bulk-update"
+  ],
+  "author": "İsmail Arılık",
+  "license": "ISC"
+}
