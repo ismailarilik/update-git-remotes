@@ -5,6 +5,7 @@
     "EditorConfig.EditorConfig",
     "eg2.vscode-npm-script",
     "GitHub.copilot",
-    "GitLab.gitlab-workflow"
+    "GitLab.gitlab-workflow",
+    "standard.vscode-standard"
   ]
 }

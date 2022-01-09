@@ -4,7 +4,9 @@
   "description": "Update git remote URLs of all projects by the given mapping",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "lint": "standard",
+    "test": "npm run lint && npm run test:unit",
+    "test:unit": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,6 +21,7 @@
   "author": "İsmail Arılık",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^27.4.7"
+    "jest": "^27.4.7",
+    "standard": "^16.0.4"
   }
 }
