@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "christian-kohler.npm-intellisense",
+    "DavidAnson.vscode-markdownlint",
+    "EditorConfig.EditorConfig",
+    "eg2.vscode-npm-script",
+    "GitHub.copilot",
+    "GitLab.gitlab-workflow"
+  ]
+}
