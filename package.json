@@ -17,5 +17,8 @@
     "bulk-update"
   ],
   "author": "İsmail Arılık",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
